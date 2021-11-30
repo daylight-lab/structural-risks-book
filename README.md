@@ -2,7 +2,37 @@
 
 A book that documents structural risks to the global internet.
 
-## Style guide
+# Contributing
+
+This book is FLOSS, and contributions are welcome. 
+
+Simply fork this repository and make a PR.
+
+## Development
+
+You'll need `yarn`.
+
+### Install
+
+``` sh
+git@github.com:daylight-lab/structural-risks-book.git
+cd structural-risks-book/docs
+yarn install
+```
+
+### Run
+
+``` sh
+cd structural-risks-book/docs
+yarn dev
+```
+
+This will run a local version of the book at `http://localhost:8080`. Edit any of the markdown files; the page will automatically refresh to reflect the changes.
+
+See the [Vuepress](https://vuepress.vuejs.org/) docs for more information.
+
+
+### Style guide
 
 - No abbreviations in headings.
 
