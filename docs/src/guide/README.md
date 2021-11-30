@@ -1,6 +1,5 @@
 # Introduction
 
-
 The thesis of this book is that the internet is, broadly speaking, insecure and
 prone to collapse. The purpose of this book is to describe why *exactly* this is
 the case---what particular attacks threaten the internet's stability globally.
@@ -13,6 +12,8 @@ impact might be.
 
 
 ## The global internet
+
+<!-- TODO - what do we mean by "global" in this context? -->
 
 <!-- TODO - draw boundaries around the book. what counts. what doesn't. -->
 

@@ -22,6 +22,8 @@ This internet is best thought of as a "stack." Different technologies, each buil
 | Transport     | Assures messages are delivered end-to-end.             |
 | Physical      | Assures machines are physically connected to a router. |
 
+
+In this book, we'll use a simple, three-layer structure to describe the internet.
 This book will go through each layer, starting from the bottom---the physical.
 
 ## References
