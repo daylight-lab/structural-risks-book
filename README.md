@@ -1,5 +1,8 @@
+# Structural Risks Book
 
-# Style guide
+A book that documents structural risks to the global internet.
+
+## Style guide
 
 - No abbreviations in headings.
 
