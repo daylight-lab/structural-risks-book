@@ -58,15 +58,16 @@ module.exports = {
           collapsable: false,
           children: [
             'physical/what-is',
+            'physical/undersea-cables',
           ]
         },
         {
-          title: 'Logical layer',
+          title: 'Transport layer',
           collapsable: false,
           children: [
-            'logical/what-is',
-            'logical/IP',
-            'logical/BGP',
+            'transport/what-is',
+            'transport/IP',
+            'transport/BGP',
           ]
         },
         {
