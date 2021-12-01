@@ -67,3 +67,16 @@ The remainder of the book is best understood heirarchically:
 This book is open-source, a perennial work in progress. Contributions are welcome.
 Please see...
 <!-- github repository -->
+
+## Citing this book
+
+To cite this book, use this bibtex entry:
+
+```tex
+@book{merrill-structural-risks,
+  title = {Structural Risks to the Global Internet},
+  author = {Nick Merrill},
+  publisher = {UC Berkeley Center for Long-Term Cybersecurity},
+  year = {2021}
+}
+```

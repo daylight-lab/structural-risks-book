@@ -2,9 +2,11 @@
 
 A book that documents structural risks to the global internet.
 
+See a live version at [https://daylight-lab.github.io](https://daylight-lab.github.io).
+
 # Contributing
 
-This book is FLOSS, and contributions are welcome. 
+This book is open source, and contributions are welcome. 
 
 Simply fork this repository and make a PR.
 
@@ -39,3 +41,7 @@ See the [Vuepress](https://vuepress.vuejs.org/) docs for more information.
 ## Threat models
 - Each technology-specific page should include a list of threat models as an H2. 
 - Each threat model should list a "Potential impact" section as an H3.
+
+## License
+
+BSD-3
