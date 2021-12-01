@@ -10,22 +10,56 @@ reference text primarily. It seeks to inform, drawing on rich and old bodies of
 work, about these risks: where they come from, how they work, and what their
 impact might be.
 
+## What this book covers
 
-## The global internet
+This book covers structural risks to the global internet, a phrase best defined by decomposing it into its component parts:
 
-<!-- TODO - what do we mean by "global" in this context? -->
+- **The global internet**. Of all the world's computer networks, a single global internet more or less encompasses or interoperates between all of them.
 
-<!-- TODO - draw boundaries around the book. what counts. what doesn't. -->
+- **Structural risks**. On that shared internet, a subset of its infrastructure
+  is common: it affects all internet users. Risks that affect this infrastructure are *structural*: they threaten the stability and availability
+  of internet content for everyone.
+
+
+This book is concerned with enumerating threats that meet this criteria.
+
+(The remainder of of this introduction expands on two concepts).
+
+## What this book doesn't cover
+
+This book is *not* concerned with local risks: for example, with attacks that
+affect a handful of internet users, a few hundred, a few thousand, or even a
+billion internet users. This book is concerned with attacks that affect *all*
+(or at least, the overwhelming majoirty of) internet users.
+
+Nor is this book concerned with estimating the specific impact of risks. It
+attempts to sketch scenarios that would inflict worst-case damage, and treds
+lightly in imagining the second- or third-order consequences of such damage
+(e.g., the disintegration of global trading routes; the return of humanity to a
+hunter-gatherer civilization; etc). Such work is hard when the attacks are
+well-defined in scope and local in impact [[cite:&Ralph2015]], let alone when they are theoretical and global.
 
 ## How to read this book
 
-<!-- for anni hellman -->
+The introduction of this book - this section - draws boundaries around the
+notion of a global internet, and what constitutes structural risk to it. It
+provides background on how this internet works, concieving of it as a "stack" of
+technical "layers."
 
-<!-- a 3-tiered heirarchy: -->
+The remainder of the book is best understood heirarchically:
 
-<!-- - layer -->
-<!--   - part of internet infra -->
-<!--     - specific threat models -->
+- **Chapters (layers)**. The subsequent chapters work through the three layers of this
+  stack: the physical, transport, and application layers. Each chapter begins by
+  describing what the layer is and how it works in practice. It then steps
+  through each key
+  - **Sections (technologies)**. Each chapter (layer) contains a section on the major,
+    relevant technologies that comprise that stack. Each technology is
+    introduced.
+    - **Structural risks**. Each section (technology) contains a series of
+      structural risks that affect that technology.
+      - **Anticipated impact**. Each structural risk is defined by its
+        anticipated impact: what the risk would affect, and how.
+
 
 
 ## Contributing to this book

@@ -51,6 +51,7 @@ module.exports = {
           children: [
             '',
             'what-is-internet',
+            'what-is-structural-risk',
           ]
         },
         {
